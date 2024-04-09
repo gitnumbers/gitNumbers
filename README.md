@@ -18,8 +18,8 @@
   <img src="https://img.shields.io/badge/-Express.js-green"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/MSSQL-DB3552?style=flat-square&logo=microsoftsqlserver&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Mariadb-E6B91E?style=flat-square&logo=mariadb&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Mariadb-E6B91E?style=flat-square&logo=mariadb&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Git-005571?style=flat-square&logo=git&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/svn-333664?style=flat-square&logo=subversion&logoColor=white"/></a>&nbsp 
