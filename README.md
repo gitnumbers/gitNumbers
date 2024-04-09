@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&fontSize=60)
 
-<h3 align="center"> 👋 Hi there 👋 </h3>
+<!--<h3 align="center"> 👋 Hi there 👋 </h3>-->
 <p align="center">
 
 </p>
@@ -27,6 +27,9 @@
 </p>
 
 <h3 align="center">•••</h3>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitNumber11&hide=stars,contribs&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitNumber11&layout=compact)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
