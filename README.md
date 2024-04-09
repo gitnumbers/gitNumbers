@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/.Net-11B48A?style=flat-square&logo=.Net&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/nodedotjs-092E20?style=flat-square&logo=nodedotjs&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/nodedotjs-092E20?style=flat-square&logo=nodedotjs&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/-Express.js-green"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/MSSQL-DB3552?style=flat-square&logo=microsoftsqlserver&logoColor=white"/></a>&nbsp 
