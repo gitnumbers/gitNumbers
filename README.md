@@ -28,8 +28,8 @@
 
 <h3 align="center">•••</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitNumber11&hide=stars&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitNumber11&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitNumbers&hide=stars&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitNumbers&layout=compact)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
